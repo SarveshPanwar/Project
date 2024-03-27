@@ -1,6 +1,4 @@
-# Vercel UI - Clone
 
-Basically a clone of vercel website in the overview section.
 
 ### Preview
 
